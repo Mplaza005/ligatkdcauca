@@ -1,0 +1,5 @@
+/* En tu archivo de estilos CSS principal o en uno específico para el navbar */
+.logo {
+    width: 170px; /* Ajusta el tamaño según lo necesites */
+    height: auto; /* Esto mantendrá la proporción original del logo */
+}
