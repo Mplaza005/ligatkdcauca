@@ -33,7 +33,7 @@
         <hr>
         <div class="d-flex align-items-center">
              <p>«Nos visualizamos como una liga líder en el ámbito del Taekwondo, reconocida por su excelencia deportiva, valores éticos y contribución al desarrollo humano. Nos esforzamos por ser un modelo de organización innovadora y orientada al crecimiento, que brinda oportunidades equitativas para el desarrollo de talento y el éxito deportivo. Aspiramos a ser un punto de encuentro para atletas, entrenadores y entusiastas del Taekwondo, promoviendo la colaboración y el intercambio de conocimientos a nivel local e internacional. Con pasión y compromiso, trabajamos hacia un futuro donde el Taekwondo sea celebrado como un vehículo para el bienestar personal y la construcción de comunidades fuertes y saludables.»</p>
-            <img src="{{ asset('images/vision.webp') }}" alt="Visión" class="img-fluid me-3 w-100 p-3 " style="max-width: 400px;" >
+            <img src="{{ asset('images/vision.jpg') }}" alt="Visión" class="img-fluid me-3 w-100 p-3 " style="max-width: 400px;" >
         </div>
     </div>
 </div> 

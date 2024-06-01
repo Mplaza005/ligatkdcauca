@@ -13,8 +13,9 @@ return new class extends Migration
     {
         Schema::create('notices', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
+            $table->string('title');
             $table->text('body');
+            $table->string('urlImg')->nullable();
             $table->timestamps();
         });
     }

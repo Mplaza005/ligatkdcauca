@@ -20,7 +20,7 @@
                     <a class="nav-link" href="{{ route('mision_vision') }}">Sobre nosotros</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Galeria</a>
+                    <a class="nav-link" href="{{ route('galeria.index') }}">Galeria</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Eventos</a>
@@ -28,6 +28,10 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">Clubes Afiliados</a>
                 </li>
+               
+
+               
+
             </ul>
         </div>
     </div>
